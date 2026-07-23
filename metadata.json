@@ -1,0 +1,6 @@
+{
+  "name": "SyntaxLess",
+  "description": "SyntaxLess - Think It. Build It. AI-Powered Natural Code Studio & Web Builder with Real-time Code, Visual & Plain-English Synchronization",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
